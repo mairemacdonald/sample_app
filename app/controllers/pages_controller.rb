@@ -4,5 +4,11 @@ class PagesController < ApplicationController
 
   def contact
   end
-
+  
+  def about
+  end
+    
+  def test
+  end
+  
 end
